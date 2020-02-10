@@ -92,8 +92,8 @@ removeVowel = (str) => {
   }
 }
 
-// console.log(removeVowel(notAString1))
-// console.log(removeVowel(notAString2))
+console.log(removeVowel(notAString1))
+console.log(removeVowel(notAString2))
 
 // --------------------6) Create a function that takes the toonimals array and returns an array with only the toon objects that are cats.
 // Expected output: [ { name: "Stimpy", animal: "cat" }, { name: "Scratchy", animal: "cat" }, { name: "Felix", animal: "cat" } ]
@@ -107,7 +107,7 @@ onlyCats = (array) => {
   return newArr
 }
 
-//console.log(onlyCats(toonimals));
+console.log(onlyCats(toonimals));
 
 
 

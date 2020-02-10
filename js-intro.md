@@ -15,17 +15,16 @@ Answer the following questions. First, without external resources. Challenge you
 
 2. What is the difference between map and filter?
 
-  Your answer: map goes through an array and commits a designated action to each element, spitting out a new array with the altered values.
+  Your answer: .map goes through an array and commits a designated action to each element, spitting out a new array with the altered values. .filter goes through an array and makes a new array with only the values that meet a certain given condition.
 
-  Researched answer:
-
+  Researched answer: ". filter() returns a subset of the elements from the original array, while . map() produces an array with new, different entries based on the elements in the original array."
 
 
 3. What is the difference between console.log() and return?
 
-  Your answer: function goes through an array and makes a new array with only the values that meet a certain given condition.
+  Your answer: console log logs the value on to the computer without retaining the value whereas return holds the value while not logging it.
 
-  Researched answer:
+  Researched answer: "console. log() is a function used to print information to the console. return on the other hand is a call to pass some value back up to where the call was made"
 
 
 
@@ -33,7 +32,7 @@ Answer the following questions. First, without external resources. Challenge you
 
   Your answer: an argument is the value one puts in into a function.
 
-  Researched answer:
+  Researched answer: "a value that must be provided to obtain the function's result."
 
 
 
@@ -45,7 +44,7 @@ Answer the following questions. First, without external resources. Challenge you
   A navigator guides the driver with solutions.
   Both roles should support each other to learn a right way to solve the problem.
 
-  Researched answer:
+  Researched answer: "Pair programming is an agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently"
 
 
 
